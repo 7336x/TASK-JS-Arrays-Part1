@@ -15,7 +15,7 @@ function getSecondGroceryItem(groceries) {
 // Write a getGroceriesCount that returns the length of the `groceries` argument
 function getGroceriesCount(groceries) {
   return groceries.length; // write your code here...
-}
+} // 
 
 // Step 4:
 // Write a getLastGroceryItem function that returns the last grocery item from `groceries` argument
